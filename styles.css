@@ -1,0 +1,22 @@
+.body {
+    color:rgb(255, 255, 255);
+  }
+
+  .navbar {
+    padding 1rem;
+    background-color: rgb(255, 255, 255);
+  }
+  .btn-primary {
+    background-color: #888;
+}
+  .btn-primary:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+  }
+
+  .hero-background-img {
+    background-image: url("/Users/shahirali/Documents/GitHub/bootstrap-landing-page/tesla img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
